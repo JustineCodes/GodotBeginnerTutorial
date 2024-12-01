@@ -1,0 +1,11 @@
+res://scenes/npcSlime.tscn
+res://scenes/game.tscn
+res://scenes/player.tscn
+res://scenes/platform.tscn
+res://scenes/kill_zone.tscn
+res://scripts/player.gd
+res://scenes/game_manager.gd
+res://scripts/coin_reward.gd
+res://default_bus_layout.tres
+res://scenes/music.tscn
+res://scenes/CoinReward.tscn
